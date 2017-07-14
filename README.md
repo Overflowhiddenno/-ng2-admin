@@ -1,0 +1,1 @@
+转载于别的大神的模版，Demo地址http://akveo.com/ng2-admin
